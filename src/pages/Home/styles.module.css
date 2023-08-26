@@ -1,0 +1,31 @@
+.container{
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: rgb(164, 163, 165);
+    height: 500px;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+}
+
+input{
+    width: 450px;
+    border-radius: 5px !important;
+    box-shadow: 3px 3px 3px !important;
+    margin-bottom: 10px;
+    background-color: #fff;
+    color: #2c2b2b;
+    height: 50px;
+    font-size: 150%;
+    font-family: 'bold';
+    
+}
+span{
+    font-family: 'bold';
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: rgb(62, 63, 63);
+}
